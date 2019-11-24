@@ -1,0 +1,67 @@
+hr{
+background-color:#000000;
+height:1px;
+border:0px;
+}
+
+body{
+background-image:url(atteli/bk.png) 
+}
+
+
+.A {
+background-image:url(atteli/logo.png);
+height:150px;
+width:800px;
+margin:0px auto;
+}
+
+
+
+.C {
+width:800px;
+margin:auto;
+}
+
+.D {
+background:#d736ff;
+width:780px;
+margin:0px auto;
+color:#000000;
+padding:10px;
+}
+
+img {
+height:100px;
+width:100px;
+border:4px;
+padding:10px;
+}
+
+.izvelne2 {
+background:#aa20e6;
+padding:10px;
+}
+
+.izvelne2  li{
+list-style-type:none;
+display:inline;
+}
+
+.izvelne2 li a{
+text-decoration:none;
+background:#aa20e6;
+color:#000000;
+padding:10px;
+}
+
+.izvelne2 li a:hover{
+padding:20px;
+}
+
+
+.epasts {
+color:#000000;
+padding:40px;
+background-color:#aa20e6;
+}
